@@ -1,0 +1,36 @@
+<!ENTITY msim.label "FireMobileSimulator">
+<!ENTITY msim.menu.accesskey "M">
+<!ENTITY msim.menu.default.label "取消设备选择">
+<!ENTITY msim.menu.default.accesskey "c">
+<!ENTITY msim.menu.options.label "选项设置">
+<!ENTITY msim.menu.options.accesskey "o">
+<!ENTITY msim.menu.devicedb.label "添加新的终端设备到列表">
+<!ENTITY msim.menu.devicedb.accesskey "d">
+<!ENTITY msim.menu.about.label "关于FireMobileSimulator">
+<!ENTITY msim.menu.about.accesskey "a">
+<!ENTITY msim.options.title "选项设置">
+<!ENTITY msim.options.general.label "常规">
+<!ENTITY msim.options.idno.label "ID信息">
+<!ENTITY msim.options.devices.label "终端设备">
+<!ENTITY msim.options.gps.label "位置设备">
+<!ENTITY msim.options.pictogram.label "表情符号显示设置">
+<!ENTITY msim.options.general.quit.label "退出">
+<!ENTITY msim.options.general.quit.reset-device-onquit.label "退出时重置终端的浏览器">
+<!ENTITY msim.options.general.display.label "查看">
+<!ENTITY msim.options.general.display.force-screen-width.label "调整终端显示区域的宽度">
+<!ENTITY msim.options.edit "编辑">
+<!ENTITY msim.options.delete "删除">
+<!ENTITY msim.options.clearall "重置为默认值">
+<!ENTITY msim.options.add "新增">
+<!ENTITY msim.options.device.device "终端名(必须)">
+<!ENTITY msim.options.device.carrier "载体(必须)">
+<!ENTITY msim.options.device.useragent "User agent(必须)">
+<!ENTITY msim.options.device.type "Type">
+<!ENTITY msim.options.device.screen-width "屏幕宽度(px)">
+<!ENTITY msim.options.device.screen-height "屏幕高度(px)">
+<!ENTITY msim.options.export "导出">
+<!ENTITY msim.options.import "导入">
+<!ENTITY msim.options.import-export "导入/导出">
+<!ENTITY msim.import.overwrite "覆盖以清除现有信息">
+<!ENTITY msim.options.device.extra-headers "HTTP Header">
+<!ENTITY msim.options.device.extra-headers.add "添加请求头">
