@@ -15,7 +15,7 @@
         <em:maxVersion>3.5.*</em:maxVersion>
       </Description>
     </em:targetApplication>
-    <em:description>携帯端末のHTTPリクエスト、絵文字表示をシミュレートします。</em:description>
+    <em:description>模拟终端移动设备对 HTTP 请求的显示情况。</em:description>
     <em:homepageURL>http://firemobilesimulator.org/</em:homepageURL>
     <em:updateURL>https://ss1.xrea.com/poly.s49.xrea.com/dev/firefox/fms/update2.xml</em:updateURL>
     <em:iconURL>chrome://msim/skin/msim_icon.png</em:iconURL>
